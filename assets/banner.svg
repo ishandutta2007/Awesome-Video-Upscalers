@@ -73,7 +73,7 @@
 
   <!-- Typography / Titles -->
   <g transform="translate(340, 115)">
-    <text x="0" y="20" font-family="'Outfit', 'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="900" font-size="34" fill="url(#textGrad)" letter-spacing="1">
+    <text x="0" y="20" font-family="'Outfit', 'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="900" font-size="28" fill="url(#textGrad)" letter-spacing="1">
       AWESOME VIDEO UPSCALERS
     </text>
     <text x="0" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="16" fill="#9e9eb0" letter-spacing="0.5">
