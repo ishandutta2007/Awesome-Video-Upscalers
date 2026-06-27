@@ -37,35 +37,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Video Upscaler Tools
 
-- **[Video2X](https://github.com/k4yt3x/video2x)**  
-  Popular open-source video upscaler that uses waifu2x, Anime4K, and other models for high-quality enlargement.
+- **[Real-ESRGAN Video](https://github.com/xinntao/Real-ESRGAN)** [![GitHub stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers) (with video extensions)  
+  State-of-the-art image upscaler adapted for video with strong detail recovery.
 
-- **[Waifu2x-Video](https://github.com/lllyasviel/waifu2x)** (and video forks)  
+- **[Waifu2x-Video](https://github.com/nagadomi/waifu2x)** [![GitHub stars](https://img.shields.io/github/stars/nagadomi/waifu2x?style=social&color=white)](https://github.com/nagadomi/waifu2x/stargazers) (and video forks)  
   Extensions and tools for applying waifu2x-style upscaling to video with temporal consistency improvements.
 
-- **[QualityScaler](https://github.com/riboseinc/QualityScaler)**  
-  Open-source video quality upscaler and enhancer with support for multiple AI models.
-
-- **[Anime4K](https://github.com/bloc97/Anime4K)**  
+- **[Anime4K](https://github.com/bloc97/Anime4K)** [![GitHub stars](https://img.shields.io/github/stars/bloc97/Anime4K?style=social&color=white)](https://github.com/bloc97/Anime4K/stargazers)  
   Real-time anime upscaling algorithm that works exceptionally well on animated content and can be applied to general video.
 
-- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**  
+- **[Video2X](https://github.com/k4yt3x/video2x)** [![GitHub stars](https://img.shields.io/github/stars/k4yt3x/video2x?style=social&color=white)](https://github.com/k4yt3x/video2x/stargazers)  
+  Popular open-source video upscaler that uses waifu2x, Anime4K, and other models for high-quality enlargement.
+
+- **[RIFE / DAIN Video Interpolation](https://github.com/megvii-research/ECCV2022-RIFE)** [![GitHub stars](https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?style=social&color=white)](https://github.com/megvii-research/ECCV2022-RIFE/stargazers)  
+  High-quality frame interpolation tools commonly combined with upscaling pipelines.
+
+- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![GitHub stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
   Node-based GUI for chaining AI models including upscalers, denoisers, and interpolators for video workflows.
 
-- **[Real-ESRGAN Video](https://github.com/xinntao/Real-ESRGAN)** (with video extensions)  
-  State-of-the-art image upscaler adapted for video with strong detail recovery.
+- **[QualityScaler](https://github.com/Djdefrag/QualityScaler)** [![GitHub stars](https://img.shields.io/github/stars/Djdefrag/QualityScaler?style=social&color=white)](https://github.com/Djdefrag/QualityScaler/stargazers)  
+  Open-source video quality upscaler and enhancer with support for multiple AI models.
+
+- **[VapourSynth + AI Plugins](https://github.com/vapoursynth/vapoursynth)** [![GitHub stars](https://img.shields.io/github/stars/vapoursynth/vapoursynth?style=social&color=white)](https://github.com/vapoursynth/vapoursynth/stargazers)  
+  Professional video processing framework with numerous AI upscaling and restoration plugins.
+
+- **[Flowframes](https://github.com/n00mkrad/flowframes)** [![GitHub stars](https://img.shields.io/github/stars/n00mkrad/flowframes?style=social&color=white)](https://github.com/n00mkrad/flowframes/stargazers)  
+  Open-source video interpolation and frame enhancement tool often used alongside upscalers.
 
 - **[Topaz Video AI Open Alternatives](https://github.com/search?q=video+upscaler+open+source)**  
   Multiple community forks and tools replicating high-end video AI upscaling locally.
-
-- **[VapourSynth + AI Plugins](https://github.com/vapoursynth/vapoursynth)**  
-  Professional video processing framework with numerous AI upscaling and restoration plugins.
-
-- **[Flowframes](https://github.com/n00mkrad/flowframes)**  
-  Open-source video interpolation and frame enhancement tool often used alongside upscalers.
-
-- **[RIFE / DAIN Video Interpolation](https://github.com/megvii-research/ECCV2022-RIFE)**  
-  High-quality frame interpolation tools commonly combined with upscaling pipelines.
 
 ### Additional Strong Open-Source Options
 
