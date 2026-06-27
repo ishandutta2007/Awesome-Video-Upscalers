@@ -42,7 +42,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## ✨ SaaS / Commercial Tools
 
-| Product | Description | Pricing | Free Tier / Trial Limit | Estimated Size (Valuation / Revenue) |
+| Product | Description | Pricing | Free Tier / Trial Limit | Company Size (Valuation / Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
 | **[CapCut](https://www.capcut.com/)** | Popular video editor with built-in AI upscaling and enhancement features. | Pro at $19.99/month or $179.99/year | Yes (free features & exports with basic limits) | $600B+ (ByteDance Valuation) |
 | **[Runway](https://runwayml.com/)** | Advanced AI video platform with powerful upscaling and generative video features. | Starts at $15/month ($12/month annually) | Yes (125 one-time credits, non-renewable) | $5.3B (Valuation) |
