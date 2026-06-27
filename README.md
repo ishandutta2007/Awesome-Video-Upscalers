@@ -1,25 +1,46 @@
-# Awesome-Video-Upscalers
-## Top Video Upscaler Ecosystem
+# 🎥 Awesome Video Upscalers
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI-Powered Video Resolution Upscaling, Frame Enhancement & Restoration*  
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Video Upscalers Banner" width="100%" />
+</div>
+
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Upscalers?style=flat-square&color=blue)](https://github.com/ishandutta2007/Awesome-Video-Upscalers/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Upscalers?style=flat-square&color=orange)](https://github.com/ishandutta2007/Awesome-Video-Upscalers/network/members)
+[![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Video-Upscalers?style=flat-square&color=green)](LICENSE)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+</div>
+
+---
+
+### 🚀 The Ultimate AI Video Upscaling & Super-Resolution Ecosystem
+
+> **SEO Description:** Discover the best AI Video Upscaler SaaS products and open-source GitHub projects. Enhance video resolution to 4K/8K, improve frame rates, remove noise, and restore old footage with state-of-the-art neural networks like Real-ESRGAN, Anime4K, and RIFE.
+
 **Last updated: March 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Video Upscalers**. These tools intelligently increase video resolution (e.g., 1080p → 4K), improve frame quality, reduce noise, enhance details, and restore old footage using deep learning models.
 
-**Examples** include Topaz Video AI (Desktop-Based), UniFab Video Upscaler AI (Desktop-Based), Aiarty Video Enhancer (Desktop-Based), VideoProc Converter AI (Desktop-Based), Pixop (Web-Based), TensorPix (Web-Based), CapCut (Web-Based), Magic Hour (Web-Based), and Runway (Web-Based) (the category leaders). Tools listed here emphasize **temporal consistency**, detail recovery, artifact reduction, and batch processing.
+**Category Leaders** include Topaz Video AI (Desktop-Based), UniFab Video Upscaler AI (Desktop-Based), Aiarty Video Enhancer (Desktop-Based), VideoProc Converter AI (Desktop-Based), Pixop (Web-Based), TensorPix (Web-Based), CapCut (Web-Based), Magic Hour (Web-Based), and Runway (Web-Based). Tools listed here emphasize **temporal consistency**, detail recovery, artifact reduction, and batch processing.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local GPU acceleration, model customization, and unlimited usage — ideal for video editors, filmmakers, and enthusiasts who want privacy and control.
+💡 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local GPU acceleration, model customization, and unlimited usage — ideal for video editors, filmmakers, and enthusiasts who want privacy and control.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🤝 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS / Commercial Tools](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## SaaS / Commercial Tools
+## 📋 Table of Contents
+- [✨ SaaS / Commercial Tools](#-saas--commercial-tools)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🔧 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## ✨ SaaS / Commercial Tools
 
 | Product | Description | Pricing | Free Tier / Trial Limit | Estimated Size (Valuation / Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -33,7 +54,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Magic Hour](https://magichour.ai/)** | AI video generation and upscaling platform with creative tools. | Starts at $15/month | Yes (limited starter credits, watermarked) | <$2M (Annual Revenue) |
 | **[TensorPix](https://tensorpix.ai/)** | Cloud AI platform for high-quality video upscaling and frame enhancement. | Starts at $5.50/month (credit-based) | Free tier (3 credits/month, watermarked) | ~$1M (Annual Revenue) |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 ### Dedicated Video Upscaler Tools
 
@@ -77,7 +98,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Recommended Toolchains**: **chaiNNer** + **Real-ESRGAN** + **Anime4K** + **VapourSynth** for a complete local, free, and highly customizable video upscaling pipeline.
 
-## How to Contribute
+## 🔧 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -86,7 +107,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - AI upscaling results vary based on source video quality, motion complexity, and model choice.

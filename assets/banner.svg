@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080711" />
+      <stop offset="50%" stop-color="#0f0c24" />
+      <stop offset="100%" stop-color="#05050d" />
+    </linearGradient>
+
+    <!-- Text/Theme Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4facfe" />
+      <stop offset="50%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#a18cd1" />
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.04" />
+    </pattern>
+
+    <!-- Blur Filter for Glow Effect -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+
+  <!-- Glowing background spots -->
+  <circle cx="200" cy="150" r="250" fill="url(#glowGrad)" filter="url(#glow)" />
+  <circle cx="650" cy="100" r="180" fill="url(#glowGrad)" filter="url(#glow)" />
+
+  <!-- Grid Overlay -->
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <!-- Geometric Abstract Lines (Upscaling Representation) -->
+  <g opacity="0.2">
+    <path d="M-100 350 L300 150 L800 250" fill="none" stroke="#4facfe" stroke-width="2" />
+    <path d="M0 320 L400 100 L900 180" fill="none" stroke="#00f2fe" stroke-width="1.5" />
+    <path d="M100 370 L500 80 L1000 210" fill="none" stroke="#a18cd1" stroke-width="1" />
+    <circle cx="300" cy="150" r="4" fill="#00f2fe" />
+    <circle cx="400" cy="100" r="3" fill="#a18cd1" />
+    <circle cx="500" cy="80" r="5" fill="#4facfe" />
+  </g>
+
+  <!-- Central Graphic: Enhancing/Upscaling Icon -->
+  <g transform="translate(80, 85)">
+    <!-- Low-res grid element -->
+    <rect x="0" y="40" width="50" height="50" rx="6" fill="#1b1c30" stroke="#4facfe" stroke-width="2" stroke-opacity="0.5" />
+    <text x="25" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-weight="bold" font-size="14" fill="#4facfe" text-anchor="middle" opacity="0.8">SD</text>
+
+    <!-- Connecting Arrow -->
+    <path d="M 65 65 L 105 65" fill="none" stroke="url(#textGrad)" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)" />
+    <path d="M 95 58 L 105 65 L 95 72" fill="none" stroke="url(#textGrad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- High-res upscaled element with glow -->
+    <rect x="120" y="20" width="90" height="90" rx="10" fill="#12182d" stroke="url(#textGrad)" stroke-width="3" filter="url(#glow)" />
+    <text x="165" y="73" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="28" fill="url(#textGrad)" text-anchor="middle">4K</text>
+    
+    <!-- Sparkles / Enhancements -->
+    <path d="M 215 15 L 218 25 L 228 28 L 218 31 L 215 41 L 212 31 L 202 28 L 212 25 Z" fill="#00f2fe" />
+    <path d="M 115 105 L 117 110 L 122 112 L 117 114 L 115 119 L 113 114 L 108 112 L 113 110 Z" fill="#a18cd1" transform="scale(0.8) translate(30, 20)" />
+  </g>
+
+  <!-- Typography / Titles -->
+  <g transform="translate(340, 115)">
+    <text x="0" y="20" font-family="'Outfit', 'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="900" font-size="34" fill="url(#textGrad)" letter-spacing="1">
+      AWESOME VIDEO UPSCALERS
+    </text>
+    <text x="0" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="16" fill="#9e9eb0" letter-spacing="0.5">
+      Curated Ecosystem of SaaS &amp; Open-Source AI Upscalers
+    </text>
+    <text x="0" y="80" font-family="'Segoe UI', Roboto, sans-serif" font-weight="400" font-size="13" fill="#60607a">
+      AI-Powered Video Resolution Upscaling, Frame Enhancement &amp; Restoration
+    </text>
+  </g>
+
+  <!-- Subtle Bottom Border Accent -->
+  <rect x="0" y="296" width="800" height="4" fill="url(#textGrad)" />
+</svg>
