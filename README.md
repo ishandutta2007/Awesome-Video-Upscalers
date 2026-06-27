@@ -21,34 +21,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS / Commercial Tools
 
-### Core Video Upscaler Platforms
-
-- **[Topaz Video AI](https://topazlabs.com/topaz-video-ai)**  
-  Industry-leading desktop AI video upscaler with exceptional temporal consistency and detail recovery.
-
-- **[UniFab Video Upscaler AI](https://unifab.ai/)**  
-  Powerful desktop tool focused on high-quality video upscaling, denoising, and frame interpolation.
-
-- **[Aiarty Video Enhancer](https://aiarty.com/)**  
-  Desktop-based AI video enhancer with multiple models for resolution increase and quality improvement.
-
-- **[VideoProc Converter AI](https://videoproc.com/)**  
-  All-in-one video processing tool with strong AI upscaling and enhancement capabilities.
-
-- **[Pixop](https://pixop.com/)**  
-  Web-based AI video upscaler optimized for professional video enhancement and restoration.
-
-- **[TensorPix](https://tensorpix.ai/)**  
-  Cloud AI platform for high-quality video upscaling and frame enhancement.
-
-- **[CapCut](https://www.capcut.com/)**  
-  Popular video editor with built-in AI upscaling and enhancement features.
-
-- **[Magic Hour](https://magichour.ai/)**  
-  AI video generation and upscaling platform with creative tools.
-
-- **[Runway](https://runwayml.com/)**  
-  Advanced AI video platform with powerful upscaling and generative video features.
+| Product | Description | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Topaz Video AI](https://topazlabs.com/topaz-video-ai)** | Industry-leading desktop AI video upscaler with exceptional temporal consistency and detail recovery. | $299 (Lifetime License) | Trial only (watermarked exports) |
+| **[UniFab Video Upscaler AI](https://unifab.ai/)** | Powerful desktop tool focused on high-quality video upscaling, denoising, and frame interpolation. | $129.99 (Lifetime) or $99.99/year | Trial only (limited tasks/duration) |
+| **[Aiarty Video Enhancer](https://aiarty.com/)** | Desktop-based AI video enhancer with multiple models for resolution increase and quality improvement. | $79/year or $165 (Lifetime License) | Trial only (watermarked exports) |
+| **[VideoProc Converter AI](https://videoproc.com/)** | All-in-one video processing tool with strong AI upscaling and enhancement capabilities. | $39.95/year or $79.95 (Lifetime) | Trial only (limited to 5-minute clips) |
+| **[Pixop](https://pixop.com/)** | Web-based AI video upscaler optimized for professional video enhancement and restoration. | Pay-as-you-go (based on processing) | Trial only (limited free testing credits) |
+| **[TensorPix](https://tensorpix.ai/)** | Cloud AI platform for high-quality video upscaling and frame enhancement. | Starts at $5.50/month (credit-based) | Free tier (3 credits/month, watermarked) |
+| **[CapCut](https://www.capcut.com/)** | Popular video editor with built-in AI upscaling and enhancement features. | Pro at $19.99/month or $179.99/year | Yes (free features & exports with basic limits) |
+| **[Magic Hour](https://magichour.ai/)** | AI video generation and upscaling platform with creative tools. | Starts at $15/month | Yes (limited starter credits, watermarked) |
+| **[Runway](https://runwayml.com/)** | Advanced AI video platform with powerful upscaling and generative video features. | Starts at $15/month ($12/month annually) | Yes (125 one-time credits, non-renewable) |
 
 ## Open-Source GitHub Projects
 
