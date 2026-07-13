@@ -85,9 +85,6 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 - **[Flowframes](https://github.com/n00mkrad/flowframes)** [![GitHub stars](https://img.shields.io/github/stars/n00mkrad/flowframes?style=social&color=white)](https://github.com/n00mkrad/flowframes/stargazers)  
   Open-source video interpolation and frame enhancement tool often used alongside upscalers.
 
-- **[Topaz Video AI Open Alternatives](https://github.com/search?q=video+upscaler+open+source)**  
-  Multiple community forks and tools replicating high-end video AI upscaling locally.
-
 ### Additional Strong Open-Source Options
 
 - **[SVT-AV1 + AI Upscaling** pipelines for efficient encoding after upscaling.
