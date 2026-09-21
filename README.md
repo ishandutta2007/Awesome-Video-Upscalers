@@ -85,6 +85,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 - **[Flowframes](https://github.com/n00mkrad/flowframes)** [![GitHub stars](https://img.shields.io/github/stars/n00mkrad/flowframes?style=social&color=white)](https://github.com/n00mkrad/flowframes/stargazers)  
   Open-source video interpolation and frame enhancement tool often used alongside upscalers.
 
+- **[Lucid](https://github.com/braedonsaunders/lucid)** — Real-time AI video super-resolution for Apple silicon Macs; enhances browser video in place.
 ### Additional Strong Open-Source Options
 
 - **[SVT-AV1 + AI Upscaling** pipelines for efficient encoding after upscaling.
