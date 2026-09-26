@@ -53,6 +53,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 | **[Pixop](https://pixop.com/)** | Web-based AI video upscaler optimized for professional video enhancement and restoration. | Pay-as-you-go (based on processing) | Trial only (limited free testing credits) | ~$2M (Annual Revenue) |
 | **[Magic Hour](https://magichour.ai/)** | AI video generation and upscaling platform with creative tools. | Starts at $15/month | Yes (limited starter credits, watermarked) | <$2M (Annual Revenue) |
 | **[TensorPix](https://tensorpix.ai/)** | Cloud AI platform for high-quality video upscaling and frame enhancement. | Starts at $5.50/month (credit-based) | Free tier (3 credits/month, watermarked) | ~$1M (Annual Revenue) |
+| **[UpRes](https://upres.ai/)** | Multi-model cloud AI video & image upscaler up to 8K with developer API, CLI, and MCP automation. | Starts at $9/month (Creator) or $39/month (Studio) | Yes (5 free upscales/month) | Bootstrapped |
 
 ## 💻 Open-Source GitHub Projects
 
