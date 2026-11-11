@@ -53,6 +53,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 | **[Pixop](https://pixop.com/)** | Web-based AI video upscaler optimized for professional video enhancement and restoration. | Pay-as-you-go (based on processing) | Trial only (limited free testing credits) | ~$2M (Annual Revenue) |
 | **[Magic Hour](https://magichour.ai/)** | AI video generation and upscaling platform with creative tools. | Starts at $15/month | Yes (limited starter credits, watermarked) | <$2M (Annual Revenue) |
 | **[TensorPix](https://tensorpix.ai/)** | Cloud AI platform for high-quality video upscaling and frame enhancement. | Starts at $5.50/month (credit-based) | Free tier (3 credits/month, watermarked) | ~$1M (Annual Revenue) |
+| **[ToHD](https://tohd.video/)** | Browser-based AI video upscaler that runs Real-ESRGAN on your own GPU through WebGPU, so the video is never uploaded; 360p/480p to 720p or 1080p. | Free; optional cloud credit packs from $4.99, one-time | Yes (free in the browser: no signup, no watermark, no daily cap; clips up to 10 min, output up to 1080p) | Bootstrapped (launched Nov 2026) |
 
 ## 💻 Open-Source GitHub Projects
 
